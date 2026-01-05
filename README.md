@@ -8,7 +8,7 @@ I document my learning journey in software engineering, including:
 - Git/GitHub practice and documentation of the entire process
 
 ## Blog URL
-https://mi-ctr1.github.io
+https://mi-ctr1.github.io/mi-ctr1/
 
 ## Notes
 This repo is mainly for blog content. The README is for my GitHub visitors.
