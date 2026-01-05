@@ -1,16 +1,15 @@
-## Hi there 👋
+# Mi's Coding Blog
 
-<!--
-**mi-ctr1/mi-ctr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository hosts my personal blog using GitHub Pages.
 
-Here are some ideas to get you started:
+I document my learning journey in software engineering, including:
+- Sophia courses to accelerate my degree and progress
+- The Odin Project to familiarize myself with tech
+- Git/GitHub practice and documentation of the entire process
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Blog URL
+https://mi-ctr1.github.io
+
+## Notes
+This repo is mainly for blog content. The README is for my GitHub visitors.
+
