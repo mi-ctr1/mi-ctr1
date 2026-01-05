@@ -1,4 +1,4 @@
-# Hi, I'm MiShannon or Mi for short 👋
+# Hi, I'm Mi 👋
 
 I'm learning software engineering while completing Sophia courses and working through The Odin Project.
 
