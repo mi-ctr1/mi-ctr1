@@ -83,6 +83,7 @@ A repository tracking my independent learning, experiments, notes, and smaller b
 - Observability — logs, metrics, and debugging workflows that make system behavior visible
 - AI-assisted tooling — using LLMs as functional components inside automated workflows
 - Infrastructure — how data moves, how services communicate, and where things actually fail
+- Exploring machine learning fundamentals — how models are trained, how they degrade over time, and how reliability and observability principles apply to keeping them performing in production
 
 ---
 
