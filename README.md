@@ -22,7 +22,7 @@ I care about how intelligent systems behave in real-world conditions and how to 
 
 ## 🛠️ Projects
 
-### 🤖 AI Workflow Request Classifier *(In-Progress)*
+### 🤖 AI Workflow Request Classifier
 A Python-based AI workflow that classifies customer service requests using a large language model. Given a user input, the system returns a structured response including category, priority level, and a one-sentence summary — demonstrating practical LLM integration, prompt engineering, and modular project design.
 
 Concepts explored:
