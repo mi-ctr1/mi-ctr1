@@ -1,6 +1,6 @@
 # Hi, I'm MiShannon 👋
 
-I am a non-traditional software engineering student in an accelerated B.S./M.S. software & AI engineering program. Independently, I am building toward intelligent systems, workflow automation, and reliability-centered design by writing real code and building real projects that develop the kind of hands-on technical foundation that matters in practice.
+I’m a non-traditional software and AI engineering student in an accelerated B.S./M.S. program, building toward intelligent systems, workflow automation, and reliability-centered design through real projects, real code, and hands-on foundations made for real-world systems.
 
 I care about how intelligent systems behave in real-world conditions and how to make them more stable, observable, and dependable over time.
 
