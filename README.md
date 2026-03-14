@@ -9,14 +9,13 @@ I care about how intelligent systems behave in real-world conditions and how to 
 ## 🧰 Skills & Tools
 
 | Category | Technologies |
-|---|---|
+| --- | --- |
 | **Languages** | Python · SQL · Perl · Java |
-| **AI & LLM Integration** | Generative AI · LLM APIs · Prompt Engineering · Structured Output Design |
-| **Automation & Workflows** | Modular Pipeline Design · Request Classification · AI Workflow Orchestration |
-| **Observability & Log Analysis** | Log Parsing · Pattern Extraction · Regex · IPv4 Analysis |
-| **Data & Backend** | REST APIs · PostgreSQL · Database Design · Data Querying |
+| **AI & LLM Integration** | LLM APIs · Prompt Engineering · Structured Output Design |
+| **Data & Backend** | REST APIs · PostgreSQL · Database Design |
+| **Log Analysis & Scripting** | Log Parsing · Regex · Pattern Extraction · Command Line |
 | **Software Design** | OOP · Modular Design · Iterative Algorithms |
-| **Tools & Environment** | Git · GitHub · Command Line |
+| **Tools** | Git · GitHub |
 
 ---
 
