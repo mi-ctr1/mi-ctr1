@@ -92,3 +92,4 @@ A repository tracking my independent learning, experiments, notes, and smaller b
 ## 📫 Let's Connect
 
 [github.com/mi-ctr1](https://github.com/mi-ctr1)
+[linkedin.com/in/mishannonabazid](https://linkedin.com/in/mishannonabazid)
