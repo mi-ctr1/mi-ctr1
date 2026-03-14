@@ -1,8 +1,11 @@
 # Hi, I'm MiShannon 👋
 
-A non-traditional software and AI engineering student in an accelerated B.S./M.S. program, building toward intelligent systems, workflow automation, and reliability-centered design through real projects, real code, and hands-on foundations made for real-world systems.
+I'm a non-traditional software and AI engineering student in an accelerated B.S./M.S. program breaking into tech intentionally and deliberately.
 
-I care about how intelligent systems behave in real-world conditions and how to make them more stable, observable, and dependable over time.
+Ahead of my program, I independently studied core concepts like: IT fundamentals, scripting & programming, Java, 
+Python, and database foundations such as SQL. I didn't treat these concepts as boxes to check. I treated them as the first layer of something I'm building purposefully.
+
+My interest is in the part that doesn't seem to get talked about much — not just building intelligent systems, but maintaining them, improving them, and making sure they're ethical, reliable, observable, and trustworthy over time. There seems to be a fault-line between designing intelligent systems and making sure they hold up under real-world conditions. That gap is where I plan to reside.
 
 ---
 
