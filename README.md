@@ -1,6 +1,6 @@
 # Hi, I'm MiShannon 👋
 
-I'm a non-traditional software and AI engineering student in an accelerated B.S./M.S. program starting this Spring breaking into tech intentionally and deliberately.
+I'm a non-traditional software and AI engineering student enrolled in an accelerated B.S./M.S. program starting this Spring breaking into tech intentionally and deliberately.
 
 Ahead of my program, I ***independently*** studied core concepts like: IT fundamentals, scripting & programming, Java, 
 Python, and database foundations such as SQL. I didn't treat these concepts as boxes to check. I treated them as the first layer of something I'm building purposefully.
