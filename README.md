@@ -7,7 +7,7 @@ deliberately, and purposefully.
 Ahead of my program I independently studied core concepts: IT fundamentals,
 scripting, Java, Python, and SQL database foundations. I didn't treat these
 as boxes to check. I treated them as the first layer of something I'm
-purposefully constructing — all while chasing after a few little ones of my own.
+meaningfully constructing — all while chasing after a few little ones of my own.
 
 My research focus is on the part that doesn't get talked about enough — not
 just building intelligent systems, but deploying, maintaining, and improving
