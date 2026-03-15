@@ -1,11 +1,12 @@
 # Hi, I'm MiShannon 👋
 
-I'm a non-traditional software and AI engineering student enrolled in an accelerated B.S./M.S. program starting this Spring breaking into tech intentionally and deliberately.
+I'm a non-traditional software and AI engineering student enrolled in an accelerated B.S./M.S. program starting this Spring.
 
-Ahead of my program, I ***independently*** studied core concepts like: IT fundamentals, scripting & programming, Java, 
-Python, and database foundations such as SQL. I didn't treat these concepts as boxes to check. I treated them as the first layer of something I'm building purposefully.
+Ahead of my program, I independently studied core concepts like: IT fundamentals, scripting & programming, Java,Python, and database foundations such as SQL. I didn't treat these concepts as boxes to check. I treated them as the first layer of something I'm building intentionally, deliberately, and purposefully.
 
-My interest is in the part that doesn't seem to get talked about much — not just building intelligent systems, but maintaining them, improving them, and making sure they're ethical, reliable, observable, and trustworthy over time. There seems to be a fault-line between designing intelligent systems and making sure they hold up under real-world conditions. That gap is where I plan to reside.
+My focus is in the part that doesn't seem to get talked about much -- not just building intelligent systems, but maintaining them, improving them, and making sure they're ethical, reliable, observable, and trustworthy over time. 
+
+There seems to be a fault-line between designing intelligent systems and making sure they hold up under real-world conditions and that gap is where I plan to reside.
 
 ---
 
