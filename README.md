@@ -9,7 +9,7 @@ scripting, Java, Python, and SQL database foundations. I didn't treat these conc
 meaningfully constructing — all while chasing after a few little ones of my own.
 
 My research focus is on the part that doesn't get talked about enough — not
-just building intelligent systems, but deploying, maintaining, and improving
+just building intelligent systems, but deploying, maintaining, securing, and improving
 them under real-world conditions. There's a fault line between designing
 intelligent systems and making sure they hold up. That is the valley where
 I plan to thrive.
@@ -19,9 +19,10 @@ I plan to thrive.
 ## 🔬 What I'm Currently Investigating
 
 - How LLM-driven automation pipelines behave and fail under varied inputs
+- How intelligent systems can be compromised, manipulated, or made to behave in           unintended ways
 - What observability looks like in lightweight AI workflow systems
 - How reliability-centered design principles apply to intelligent systems
-- What it takes to make automated systems traceable and trustworthy over time
+- What it takes to make automated systems traceable, secure, and trustworthy over time
 
 ---
 
@@ -111,10 +112,12 @@ smaller builds along the way.
   automated workflows
 - **Infrastructure** — how data moves, how services communicate, and
   where things actually fail
-- **ML system behavior** — how models are trained, how they degrade over
+- ***Systems security*** — understanding how infrastructure, logs, APIs, and data         pipelines can be compromised, and how security principles apply across the full stack   an intelligent system depends on
+- ***AI security*** — how intelligent systems can be compromised, manipulated, or made    to behave in unintended ways, and what it takes to engineer them to be resilient        against it
+- **ML system behavior*** — how models are trained, how they degrade over
   time, and how reliability and observability principles apply to keeping
   them performing in production
-- ***AI security*** — how intelligent systems can be compromised, manipulated, or made to behave in unintended ways, and what it takes to engineer them to be resilient against it
+  
 ---
 
 ## 🛠️ Current Stack
