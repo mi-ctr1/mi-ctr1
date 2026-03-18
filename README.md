@@ -16,26 +16,17 @@ I plan to thrive.
 
 ---
 
-## 🔬 What I'm Currently Investigating
-
-- How LLM-driven automation pipelines behave and fail under varied inputs
-- How intelligent systems can be compromised, manipulated, or made to behave in           unintended ways
-- What observability looks like in lightweight AI workflow systems
-- How reliability-centered design principles apply to intelligent systems
-- What it takes to make automated systems traceable, secure, and trustworthy over time
-
----
-
 ## 🧰 Skills & Tools
 
 | Category | Technologies |
 | --- | --- |
 | **Languages** | Python · SQL · Perl · Java |
-| **AI & LLM Integration** | LLM APIs · Prompt Engineering · Structured Output Design |
+| **AI & LLM Integration** | LLM APIs · Prompt Engineering · Structured Output Design · LLM Pipelines · Workflow Evaluation |
 | **Data & Backend** | REST APIs · PostgreSQL · Database Design |
-| **Log Analysis & Scripting** | Log Parsing · Regex · Pattern Extraction · Command Line |
-| **Software Design** | OOP · Modular Design · Iterative Algorithms |
-| **Tools** | Git · GitHub |
+| **Observability & Monitoring** | Log Parsing · Tracing · Error Analysis · Evaluation Pipelines |
+| **Log Analysis & Scripting** | Regex · Pattern Extraction · Command Line |
+| **System Design** | OOP · Modular Design · Iterative Algorithms |
+| **Tools** | Git · GitHub · Cursor · VS Code · Markdown |
 
 ---
 
@@ -102,7 +93,7 @@ smaller builds along the way.
 
 ---
 
-## 🔍 Research Interests
+## 🔍 What I'm Interested In Building
 
 - **Reliability-centered design** — building systems that hold up under
   real-world conditions, not just ideal ones
@@ -112,21 +103,21 @@ smaller builds along the way.
   automated workflows
 - **Infrastructure** — how data moves, how services communicate, and
   where things actually fail
-- ***Systems security*** — understanding how infrastructure, logs, APIs, and data         pipelines can be compromised, and how security principles apply across the full stack   an intelligent system depends on
-- ***AI security*** — how intelligent systems can be compromised, manipulated, or made    to behave in unintended ways, and what it takes to engineer them to be resilient        against it
-- **ML system behavior*** — how models are trained, how they degrade over
+- **Systems security** — understanding how infrastructure, logs, APIs, and data           pipelines can be compromised, and how security principles apply across the full stack   an intelligent system depends on
+- **AI security** — how intelligent systems can be compromised, manipulated, or made      to behave in unintended ways, and what it takes to engineer them to be resilient        against it
+- **ML system behavior** — how models are trained, how they degrade over
   time, and how reliability and observability principles apply to keeping
   them performing in production
   
 ---
 
-## 🛠️ Current Stack
+## 🔬 Research Areas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- How LLM-driven automation pipelines behave and fail under varied inputs
+- How intelligent systems can be compromised, manipulated, or made to behave in           unintended ways
+- What observability looks like in lightweight AI workflow systems
+- How reliability-centered design principles apply to intelligent systems
+- What it takes to make automated systems traceable, secure, and trustworthy over time
 
 ---
 
@@ -139,7 +130,6 @@ smaller builds along the way.
   documentation
 - 🔍 Actively seeking hands-on opportunities in tech to complement my
   academic and research path
-- 📍 Chattanooga, TN
 
 ---
 
