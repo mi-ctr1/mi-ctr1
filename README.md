@@ -114,7 +114,7 @@ smaller builds along the way.
 - **ML system behavior** — how models are trained, how they degrade over
   time, and how reliability and observability principles apply to keeping
   them performing in production
-
+- ***AI security*** — how intelligent systems can be compromised, manipulated, or made to behave in unintended ways, and what it takes to engineer them to be resilient against it
 ---
 
 ## 🛠️ Current Stack
@@ -129,8 +129,7 @@ smaller builds along the way.
 
 ## 📌 Currently
 
-- 🔬 Researching intelligent systems reliability, observability, and
-  automation pipeline design
+- 🔬 Researching intelligent systems reliability, security, and observability
 - 📚 Enrolled in B.S./M.S. Software & AI Engineering at WGU
 - 🛠️ Building automation pipelines with Python and LLM integration
 - 🌱 Developing skills in business process analysis and requirements
@@ -148,6 +147,4 @@ smaller builds along the way.
 
 ---
 
-*Researching how intelligent systems behave under real conditions — and
-building the automation infrastructure to make them more reliable,
-observable, and trustworthy over time.*
+*Researching how intelligent systems behave under real conditions — and building the automation infrastructure to make them more reliable, observable, secure, and trustworthy over time.*
