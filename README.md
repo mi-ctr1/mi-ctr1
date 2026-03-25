@@ -1,4 +1,4 @@
-# Hey, I'm MiShannon 👋
+# Hi, I'm MiShannon 👋
 
 I'm a non-traditional software & AI engineering student in an accelerated
 B.S./M.S. program — researching, experimenting, and building intentionally,
