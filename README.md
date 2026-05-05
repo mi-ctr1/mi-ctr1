@@ -1,7 +1,7 @@
 # Hi, I'm MiShannon 👋
 
-I'm a non-traditional Software & AI engineering student in an accelerated
-B.S./M.S. program — researching, experimenting, and building intentionally.
+I'm a non-traditional Software Engineering student in an accelerated
+B.S./M.S.(AI Focus) program, researching, experimenting, and building intentionally.
 
 Ahead of my program I independently studied core concepts: IT fundamentals,
 scripting, Java, Python, and SQL database foundations. I didn't treat these concepts as boxes to check. I treated them as the first layer of something I'm
