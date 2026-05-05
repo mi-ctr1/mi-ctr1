@@ -87,8 +87,8 @@ Concepts explored:
 
 ## 📓 Learning Log
 
-A repository tracking my independent research, experiments, notes, and
-smaller builds along the way.
+A repository tracking my studies, independent research, experiments, notes, and
+smaller builds like course projects along the way.
 
 ---
 
