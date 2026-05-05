@@ -31,6 +31,14 @@ I plan to thrive.
 
 ## 🛠️ Projects
 
+### 🤖 AI Reliability & Evaluation System (***In Progress***)
+
+This project is an in-progress system designed to collect, validate, and analyze real-world data using automation and machine learning. The goal is to evaluate data consistency and AI-generated outputs, with a focus on system reliability and data integrity.
+
+Concepts explored:
+`Python` `JavaScript` `scikit-learn` `LLM APIs` `Reliability` `Observability`
+
+
 ### 🤖 LLM-Based Workflow Classification System
 A Python-based AI workflow that classifies incoming requests using a large
 language model. Given a user input, the system returns a structured response
