@@ -31,7 +31,7 @@ I plan to thrive.
 
 ## 🛠️ Projects
 
-### 🤖 AI Workflow Request Classifier
+### 🤖 LLM-Based Workflow Classification System
 A Python-based AI workflow that classifies incoming requests using a large
 language model. Given a user input, the system returns a structured response
 including category, priority level, and a one-sentence summary — researching
@@ -44,7 +44,7 @@ Concepts explored:
 
 ---
 
-### 🗄️ Property Records Data API *(In Progress)*
+### 🗄️ Structured Data API for Property Records
 A backend project researching the data layer that reliable systems depend on —
 querying structured property records through REST API-style logic built on
 relational database design.
@@ -54,7 +54,7 @@ Concepts explored:
 
 ---
 
-### 📂 Log Parsing & Pattern Extraction Utility
+### 📂 Log Analysis & Pattern Extraction Tool
 A Perl command-line utility investigating pattern extraction from application
 logs using regular expressions — exploring how log analysis supports system
 observability.
