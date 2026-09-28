@@ -24,4 +24,4 @@ computer science foundation.
 I'm documenting my journey through computer science as I learn, build,
 and work through my degree.
 
-**[→ Join the journey](LINK-TO-YOUR-LEARNING-LOG)**
+**[→ Join the journey]([(https://github.com/mi-ctr1/learning-log.git)])**
